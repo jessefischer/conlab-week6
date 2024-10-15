@@ -1,6 +1,6 @@
 ## Connections Lab Week 6
 
-### To start:
+### Running the app
 
 `node --watch index.js`
 
